@@ -1,10 +1,8 @@
 # VBA Challenge: Stock Analysis and Visualization
 
-## Background
-Create a new repository for this project called VBA-challenge. 
-
-Inside the new repository that you just created, add any VBA files that you use for this assignment. These will be the main scripts to run for each analysis.
-
+## Introduction
+ In this assignment, you will utilize Visual Basic for Applications (VBA) to analyze and visualize stock data. The main objective is to create a script that loops through stock data for one year and provides valuable insights such as yearly changes, percentage changes, and total stock volume. Additionally, the script will identify the stocks with the greatest percentage increase, decrease, and total volume.
+ 
 ## Instructions
 Create a script that loops through all the stocks for one year and outputs the following information:
 
